@@ -1,0 +1,9 @@
+.body{
+  background-image:url(https://img-a.udemycdn.com/notices/home_banner/image/5e733138-2116-4fdd-a927-c27a916dc488.jpg);
+  height:300px;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  display: flex;
+  align-items: flex-end;
+}
